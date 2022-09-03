@@ -1,8 +1,9 @@
 {
     "name": "Treasure Hunting | Dowsing",
     "store-url": "https://mossycode.tebex.io/package/5216671",
-    "latest-version": "1.1.4",
+    "latest-version": "1.1.5",
     "changelog": {
+        "1.1.5": "Resolve issue where beeper did not beep and it didn't work.\nIf it did not do anything before, please give this version a shot.\nNote: this also works on older QBCore installations.",
         "1.1.4": "Fix dowsing generating two digsites per spot",
         "1.1.3": "Added an update checker!\nAdded support for Cayo Perico!\nImprove performance\nAdd clearer debug messages"
     }
