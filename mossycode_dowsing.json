@@ -1,7 +1,7 @@
 {
     "name": "Treasure Hunting | Dowsing",
     "store-url": "https://mossycode.tebex.io/package/5216671",
-    "latest-version": "1.1.5",
+    "latest-version": "1.1.6",
     "changelog": {
         "1.1.6": "Resolved issue where digging spots would be generated twice on a fresh server start.",
         "1.1.5": "Resolve issue where beeper did not beep and it didn't work.\nIf it did not do anything before, please give this version a shot.\nNote: this also works on older QBCore installations.",
